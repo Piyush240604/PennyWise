@@ -50,6 +50,15 @@ PennyWise is a Flutter-based mobile application designed to provide comprehensiv
 
 ---
 
+## Contributors
+- Piyush Prakash
+- Abishek S R
+- Deekshith
+- Chetna Rajeev
+- Lathika
+
+---
+
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes.
@@ -62,11 +71,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
-
-For any queries or support, please contact:
-- **Email:** your.email@example.com
-- **GitHub:** [Piyush240604](https://github.com/Piyush240604)
 
 ---
 
