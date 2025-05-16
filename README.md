@@ -56,6 +56,7 @@ PennyWise is a Flutter-based mobile application designed to provide comprehensiv
 - Deekshith
 - Chetna Rajeev
 - Lathika
+- Logith Surya
 
 ---
 
